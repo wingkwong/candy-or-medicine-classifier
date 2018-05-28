@@ -18,6 +18,7 @@ Could you tell the difference between candy and medicine? This python program is
 python label_image.py predict/4076-8267-3450.jpg
 ```
 ![alt text](https://raw.githubusercontent.com/wingkwong/candy-or-medicine-classifier/master/predict/4076-8267-3450.jpg)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fwingkwong%2Fcandy-or-medicine-classifier.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fwingkwong%2Fcandy-or-medicine-classifier?ref=badge_shield)
 
 ```
 Medicine (score = 0.98302)
@@ -34,3 +35,6 @@ python label_image.py predict/16394-2496-24495.jpg
 Candy (score = 0.99137)
 Medicine (score = 0.00863)
 ```
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fwingkwong%2Fcandy-or-medicine-classifier.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fwingkwong%2Fcandy-or-medicine-classifier?ref=badge_large)
